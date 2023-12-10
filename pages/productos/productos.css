@@ -1,0 +1,166 @@
+@font-face{
+    font-family: 'trapstar';
+    src: url("../preentrega1/tipografia/judasc__.ttf");
+}
+
+#titulo{
+    text-align: center;
+    font-family: 'trapstar';
+    margin-top: 70px;
+    
+}
+#titulos{
+    font-family: 'letra';
+    font-size: 48px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: line-through;
+    text-decoration-color: darkred;
+    -webkit-text-fill-color:#ffffff
+}
+#substitulo{
+    font-size: 18px;
+    margin: -40px;
+    font-weight: bold;
+    font-style: italic;
+    -webkit-text-fill-color:#7c1386
+}
+#nav{
+    list-style-type: none;
+    margin-top: 70px;
+    margin-left: 710px;
+    margin-bottom: -80px;
+}
+#productos{
+    margin-left: 70px;
+    margin-top: -18px;
+}
+#preguntas{
+    margin-top: -18px;
+    margin-left: 190px;
+}
+#nosotros{
+    margin-top: -18px;
+    margin-left: 310px;
+}
+#contacto{
+    margin-top: -18px;
+    margin-left: 420px;
+}
+#bb{
+    width: 400px;
+    height: 300px;
+    margin-left: 220px;
+
+}
+#sprm{
+    width: 400px;
+    height: 300px;
+    margin-left: -20px;
+    
+
+}
+#stsy{
+    width: 300px;
+    height: 300px;
+}
+#brb{
+    width: 300px;
+    height: 300px;
+}
+#pics{
+    margin-top: 200px;
+}
+#bbprice{
+    margin-left: 330px;
+}
+#sprmprice{
+    margin-left: 710px;
+    margin-top: -45px;
+}
+#stsyprice{
+    margin-left: 1090px;
+    margin-top: -45px;
+}
+#brbprice{
+    margin-left: 1380px;
+    margin-top: -48px;
+}
+#bbp{
+    margin-left: 380px;
+    margin-top: -20px;
+}
+#sprmp{
+    margin-left: 770px;
+    margin-top: -40px;
+}
+#stsyp{
+    margin-left: 1120px;
+    margin-top: -40px;
+}
+#brbp{
+    margin-left: 1425px;
+    margin-top: -40px;
+}
+#comprar{
+    list-style-type: none;
+}
+#header{
+    width: 100%;
+    height: 700px;
+    margin-top: -70px;
+    background-image: url(./images/Captura\ de\ pantalla\ 2023-12-10\ 132347.png);
+    background-repeat: no-repeat;    
+    background-size: contain;
+    margin-bottom: -200px;
+    font-family: 'trapstar';
+
+    
+
+}
+#comprar1{
+    margin-left: 380px;
+    margin-top: -20px;
+}
+#comprar2{
+    margin-left: 770px;
+    margin-top: -20px;
+}
+
+#comprar3{
+    margin-left: 1120px;
+    margin-top: -18px;
+}
+
+#comprar4{
+    margin-left: 1425px;
+    margin-top: -18px;
+}
+#footer{
+    width: 100%;
+    height: 200px;
+    border: #000000;
+    border-style: groove;
+    margin-top: 100px;
+}
+#logo{
+    height: 200px;
+    width: 200px;
+}
+#direcciones{
+    margin-left: 800px;
+    margin-top: -118px;
+
+}
+#suscripcion{
+    margin-left: 1300px;
+    margin-top: -120px;
+}
+#redes{
+    margin-left: 400px;
+    margin-top: -180px;
+}
+#copy{
+    text-align: center;
+    margin-top:80px ;
+}
